@@ -1,16 +1,17 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+  schedule:
+    # Se ejecuta cada 12 horas (corregido para que no sature cada minuto)
+    - cron: "0 */12 * * *" 
+  workflow_dispatch: # Permite ejecutarlo manualmente
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
+      # Genera la serpiente
       - uses: Platane/snk@v3
         with:
           github_user_name: kikisaito
@@ -20,6 +21,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Sube los archivos a una rama llamada 'output'
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
