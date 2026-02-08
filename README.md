@@ -1,11 +1,11 @@
-# Hi ! My name is Jaitovich , from Mexico-Chiapas
+### Hi ! My name is Jaitovich , from Mexico-Chiapas
 
-<table align="center">
+<table border="0">
   <tr>
-    <td width="45%" align="center">
-      <img src="tu-imagen.png" width="100%" alt="Lain Quote">
+    <td width="40%" align="center">
+      <img src="lain-bw.png" width="100%" alt="Lain Quote">
     </td>
-    <td width="55%" align="center">
+    <td width="60%" align="left" valign="top">
       <h3>Tech Stack</h3>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
