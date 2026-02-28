@@ -25,7 +25,7 @@
 <h3> Featured Project</h3>
 <p align="left">
 <a href="https://github.com/kikisaito/SEE_AWOS.git">
-<img src="https://img.shields.io/badge/Gatoco_Backend-Repo-2ea44f?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/SEE_AWOS-2ea44f?style=for-the-badge&logo=github" />
 </a>
 </p>
 
