@@ -13,7 +13,7 @@
 </ul>
 </td>
 <td width="40%" align="center" valign="middle">
-<img src="lain%20git.jpg" width="100%" alt="Lain Aesthetic">
+<img src="azka.jpg" width="100%" alt="Lain Aesthetic">
 </td>
 </tr>
 </table>
