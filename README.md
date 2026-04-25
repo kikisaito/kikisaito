@@ -6,7 +6,7 @@
 <h3> Quick Facts</h3>
 <ul>
 <li> Student at <b>Universidad Politécnica de Chiapas</b></li>
-<li> Currently in <b>5th Semester</b> :33333</li>
+<li> Currently being an intern at N3X</li>  
 <li> developer attempt <b>Web and Mobile apps</b> (Kotlin, Java, TS)</li>
 <li>📍 From <b>Tuxtla Gutiérrez, Chiapas, Mexico</b></li>
 <li> Reach me at: <a href="mailto:jaitovichbidnaud@gmail.com">jaitovichbidnaud@gmail.com</a></li>
